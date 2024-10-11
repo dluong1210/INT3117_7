@@ -1,4 +1,4 @@
-package kiemThu;
+package kiemThu.kiemThuChucNang;
 
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;

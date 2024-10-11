@@ -1,4 +1,4 @@
-package kiemThu;
+package kiemThu.kiemThuDongDieuKhien.project;
 
 public class Transaction {
     public static int calculateBill(int amount, boolean isVIP) {
